@@ -61,6 +61,13 @@ body {
     color: var(--color-white);
 }
 
+#mensaje {
+    margin-bottom: 2%;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
